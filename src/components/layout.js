@@ -1,17 +1,11 @@
-/**
- * Layout component that queries for data
- * with Gatsby's StaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/static-query/
- */
-
 import React from "react"
 import PropTypes from "prop-types"
 import { StaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
+import SmallHeader from "./smallHeader"
 
-const Layout = ({ children }) => (
+const Layout = ({ children, smallHeader }) => (
   <StaticQuery
     query={graphql`
       query SiteTitleQuery {
@@ -25,7 +19,11 @@ const Layout = ({ children }) => (
     `}
     render={data => (
       <>
-        <Header siteTitle={data.site.siteMetadata.title} description={data.site.siteMetadata.description}/>
+        {
+          smallHeader ?
+            <SmallHeader siteTitle={data.site.siteMetadata.title} description={data.site.siteMetadata.description} /> :
+            <Header siteTitle={data.site.siteMetadata.title} description={data.site.siteMetadata.description} />
+        }
         <div
           style={{
             margin: `0 auto`,
@@ -48,6 +46,7 @@ const Layout = ({ children }) => (
 
 Layout.propTypes = {
   children: PropTypes.node.isRequired,
+  smallHeader: PropTypes.bool
 }
 
 export default Layout

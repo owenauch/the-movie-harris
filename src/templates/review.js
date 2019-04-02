@@ -1,5 +1,5 @@
 import React from "react"
-import { Link, graphql } from "gatsby"
+import { graphql } from "gatsby"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
@@ -9,10 +9,9 @@ class ReviewTemplate extends React.Component {
     const review = this.props.data.markdownRemark
     console.log(review)
     const siteTitle = this.props.data.site.siteMetadata.title
-    const { previous, next } = this.props.pageContext
 
     return (
-      <Layout location={this.props.location} title={siteTitle}>
+      <Layout location={this.props.location} title={siteTitle} smallHeader={true}>
         <SEO
           title={review.frontmatter.title}
           description={review.frontmatter.description || review.excerpt}

@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    title: `The Movie Harris`,
-    description: `He's not just the Ice Harris anymore. Check out some spicy movie takes from the Harris below.`,
+    title: `The Film Harris`,
+    description: `Home of the hottest cinematic takes from The Ice Harris – also known in professional circles as Matthew Harrison Steedman`,
     author: `@owenauch`,
   },
   plugins: [
