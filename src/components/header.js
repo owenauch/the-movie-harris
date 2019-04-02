@@ -18,6 +18,7 @@ const Header = ({ siteTitle, description }) => (
         alignItems: "center"
       }}
     >
+      {/* this is the photo with formatting... if we want to add it back in, just uncommment */}
       {/* <div style={{height: "175px", display: "flex", alignItems: "center", justifyContent: "center", border: "1px solid white"}}>
         <img
           alt="the harris"
