@@ -35,11 +35,11 @@ const Layout = ({ children }) => (
           }}
         >
           <main>{children}</main>
-          {/* <footer>
+          <footer>
             Site built by
             {` `}
             <a href="https://twitter.com/owenauch">Owen Auch</a>
-          </footer> */}
+          </footer>
         </div>
       </>
     )}

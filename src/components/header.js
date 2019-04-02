@@ -1,4 +1,3 @@
-import { Link } from "gatsby"
 import PropTypes from "prop-types"
 import React from "react"
 
@@ -21,6 +20,7 @@ const Header = ({ siteTitle, description }) => (
     >
       <div style={{height: "9rem", display: "flex", alignItems: "center", justifyContent: "center"}}>
         <img
+          alt="the harris"
           src="https://static.politico.com/dims4/default/f038baa/2147483647/resize/1160x%3E/quality/90/?url=https%3A%2F%2Fstatic.politico.com%2Fd4%2Ffa%2Fc50295a24e6b84618b97fe17e164%2F1902020-kamala-gty-773.jpg"
           style={{height: "100%", objectFit: "contain", paddingRight: "20px", alignItems: "center", display: "inline-block", verticalAlign: "middle"}}
         />
