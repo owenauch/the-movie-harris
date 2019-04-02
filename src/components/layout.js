@@ -36,7 +36,7 @@ const Layout = ({ children, smallHeader }) => (
           <footer>
             Site built by
             {` `}
-            <a href="https://twitter.com/owenauch">Owen Auch</a>
+            <a href="https://twitter.com/owenauch">Owen Auch</a> & <a href="https://www.linkedin.com/in/baker-moran-a47b17114/">Baker Moran</a>
           </footer>
         </div>
       </>
