@@ -7,7 +7,6 @@ import SEO from "../components/seo"
 class ReviewTemplate extends React.Component {
   render() {
     const review = this.props.data.markdownRemark
-    console.log(review)
     const siteTitle = this.props.data.site.siteMetadata.title
 
     return (
