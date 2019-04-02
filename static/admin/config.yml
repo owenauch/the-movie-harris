@@ -8,7 +8,7 @@ public_folder: content/reviews
 collections:
   - name: review
     label: Review
-    folder: blog
+    folder: content/reviews
     create: true
     fields:
       - { name: path, label: Path }
