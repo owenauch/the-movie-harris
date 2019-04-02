@@ -18,13 +18,14 @@ const Layout = ({ children }) => (
         site {
           siteMetadata {
             title
+            description
           }
         }
       }
     `}
     render={data => (
       <>
-        <Header siteTitle={data.site.siteMetadata.title} />
+        <Header siteTitle={data.site.siteMetadata.title} description={data.site.siteMetadata.description}/>
         <div
           style={{
             margin: `0 auto`,
@@ -34,11 +35,11 @@ const Layout = ({ children }) => (
           }}
         >
           <main>{children}</main>
-          <footer>
-            © {new Date().getFullYear()}, Built with
+          {/* <footer>
+            Site built by
             {` `}
-            <a href="https://www.gatsbyjs.org">Gatsby</a>
-          </footer>
+            <a href="https://twitter.com/owenauch">Owen Auch</a>
+          </footer> */}
         </div>
       </>
     )}

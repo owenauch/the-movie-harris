@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `The Movie Harris`,
-    description: `He's not just the Ice Harris anymore. Come here for some spicy movie takes from the Harris himself.`,
+    description: `He's not just the Ice Harris anymore. Check out some spicy movie takes from the Harris below.`,
     author: `@owenauch`,
   },
   plugins: [
