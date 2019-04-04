@@ -2,7 +2,7 @@
 path: birdemic
 date: 2019-04-02T21:15:56.514Z
 title: Birdemic
-rating: 9.9
+rating: 9.8
 ---
 ![birdemic poster](https://images-na.ssl-images-amazon.com/images/I/51yLgMm23gL._SY445_.jpg)
 
