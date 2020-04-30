@@ -8,10 +8,10 @@ rating: 9.5
 
 ## Overview
 
-* __Rating:__ 9.5 / 10
-* __Director:__ Taika Waititi.
-* __Notable Cast:__ Roman Griffin Davis, Scarlett Johansson, Thomasin McKenzie, Sam Rockwell, and Taika Waititi.
-* __Release Year:__ 2019.
+* **Rating:** 9.5 / 10
+* **Director:** Taika Waititi.
+* **Notable Cast:** Roman Griffin Davis, Scarlett Johansson, Thomasin McKenzie, Sam Rockwell, and Taika Waititi.
+* **Release Year:** 2019.
 
 ## Plot
 
@@ -40,8 +40,9 @@ Waititi’s Hitler is the ultimate example of Jojo Rabbit’s duality. I remembe
 ## Cinematography
 
 As a cinematography snob, Jojo won such a high rating from me because of how well and uniquely it is shot. I’ll list a couple examples that blew me away.
+
 * The foreshadowing and callback of Rosie tying Jojo’s shoes and then Jojo tying Elsa’s shoes.
-*While Jojo and Rosie are riding their bikes through the country, Waititi expertly frames the scene by placing the two at the top of the screen while giving a wide shot of the grass.
+* While Jojo and Rosie are riding their bikes through the country, Waititi expertly frames the scene by placing the two at the top of the screen while giving a wide shot of the grass.
 * The scene of Jojo finding Rosie dead is one of the most impressive and layered scenes I have seen in a while. First of all, just the emotional rollercoaster that scene drags you through. You start with a happy Jojo following a butterfly, then Waititi stomps on your heart as you see Rosie dead. More so, the color contrast in this scene is insane. First of all, the contrast of the blue butterfly against the grey town center. Then the camera follows the butterfly, which completely changes the vibe of the scene. The callback to Jojo staring at Rosie’s shoes at eye level as they walk along the river as he finds her hanging, shoes at eye level, is monumental and emotionally raw. Again, the color contrast is not only prominent, but beautiful. Rosie’s bright red shoes are in stark contrast to the bleak colors of the square. The bleak colors of the square represent the immense emotional blow Jojo was dealt. Finally, the scene is concluded by scanning of the attic windows, further layering. The windows, which personifies bitter and mournful eyes, subtly refer to Elsa’s hiding as well as loudly claiming the depressing reality. The windows are broken alongside Jojo. Waititi is a mastermind.
 * The final scene of Jojo and Elsa dancing is light and beautiful. I loved how we got single shots of both of them dancing. It shows the finality and resolution of the movie.
 
