@@ -27,7 +27,7 @@ const Header = ({ siteTitle, description }) => (
         />
       </div> */}
       <div style={{ margin: 0, display: "flex", flexDirection: "column", alignItems: "flex-start", justifyContent: "center"}}>
-        <h1 style={{marginBottom: 10, color: "#e51937"}}>
+        <h1 style={{marginBottom: 10, color: "#3467eb"}}>
           {siteTitle}
         </h1>
         <h4 style={{ color: "white" }}>{description}</h4>

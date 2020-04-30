@@ -17,7 +17,7 @@ const IndexPage = ({ data }) => (
           to={node.fields.slug}
         >
           <h3 style={{ display: "flex", justifyContent: "flex-start", alignItems: "center", marginBottom: "10px"}}>
-            <span style={{ color: "#e51937"}}>{node.frontmatter.title}</span>
+            <span style={{ color: "#3467eb"}}>{node.frontmatter.title}</span>
             <span style={{ marginLeft: ".5rem", marginRight: ".5rem"}}>|</span>
             {node.frontmatter.rating < 5 ?
               <div><span style={{ color: "#e51937"}}>{node.frontmatter.rating}</span><span>/10</span></div> : 
