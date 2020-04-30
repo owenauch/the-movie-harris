@@ -6,7 +6,7 @@ const Header = ({ siteTitle, description }) => (
     style={{
       marginBottom: `1.45rem`,
       paddingTop: `20px`,
-      backgroundColor: "black"
+      backgroundColor: "black",
     }}
   >
     <div
@@ -15,7 +15,7 @@ const Header = ({ siteTitle, description }) => (
         maxWidth: 960,
         padding: `1.45rem 1.0875rem`,
         display: `flex`,
-        alignItems: "center"
+        alignItems: "center",
       }}
     >
       {/* this is the photo with formatting... if we want to add it back in, just uncommment */}
@@ -26,10 +26,17 @@ const Header = ({ siteTitle, description }) => (
           style={{height: "100%", minHeight: "100%", objectFit: "contain", paddingRight: "20px", alignItems: "center", display: "inline-block", verticalAlign: "middle"}}
         />
       </div> */}
-      <div style={{ margin: 0, display: "flex", flexDirection: "column", alignItems: "flex-start", justifyContent: "center"}}>
-        <h1 style={{marginBottom: 10, color: "#3467eb"}}>
-          {siteTitle}
-        </h1>
+      <div
+        style={{
+          margin: 0,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "flex-start",
+          justifyContent: "center",
+          padding: "0 1.0875rem",
+        }}
+      >
+        <h1 style={{ marginBottom: 10, color: "#3467eb" }}>{siteTitle}</h1>
         <h4 style={{ color: "white" }}>{description}</h4>
       </div>
     </div>
@@ -43,7 +50,7 @@ Header.propTypes = {
 
 Header.defaultProps = {
   siteTitle: ``,
-  description : ``,
+  description: ``,
 }
 
 export default Header
