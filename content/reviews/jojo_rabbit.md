@@ -8,9 +8,11 @@ rating: 9.5
 
 ## Overview
 
-* **Director:** Taika Waititi.
-* **Notable Cast:** Roman Griffin Davis, Scarlett Johansson, Thomasin McKenzie, Sam Rockwell, and Taika Waititi.
-* **Release Year:** 2019.
+**Director:** Taika Waititi.
+
+**Notable Cast:** Roman Griffin Davis, Scarlett Johansson, Thomasin McKenzie, Sam Rockwell, and Taika Waititi.
+
+**Release Year:** 2019.
 
 ## Plot
 
