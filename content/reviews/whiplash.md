@@ -4,21 +4,17 @@ date: 2020-05-06T23:48:38.070Z
 title: Whiplash
 rating: 8.9
 ---
-![](/content/reviews/rs-w-600-h-600.jpeg)
+![](https://m.media-amazon.com/images/I/91r0mEadTkL._AC_UY436_FMwebp_QL65_.jpg)
 
 # **Overview**
 
-**Rating**: 8.9 / 10
-
 **Director**: Damien Chazelle.
-
 **Notable** **Cast**: Miles Teller and J.K. Simmons.
-
 **Release** **Year**: 2014.
 
 
 
-# **Synopsis** 
+# **Synopsis**
 
 Whiplash tells the story of the explosive relationship between young drumming prodigy, Andrew Nieman (Miles Teller), and prestigious Shaffer Conservatory of Music professor, Terence Fletcher (J.K. Simmons). Andrew Nieman, a first year at Shaffer, desires to be one of the great jazz drummers. Early in the film, Nieman is invited to be the alternate for Fletcher’s band, the most reputable band at Shaffer. Nieman quickly realizes that he must sacrifice everything in order to achieve his goal. The tumultuous relationship between Fletcher and Nieman becomes both emotionally and physically abusive, resulting in catastrophic outcomes.
 
