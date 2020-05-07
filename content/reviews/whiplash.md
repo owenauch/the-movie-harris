@@ -4,7 +4,7 @@ date: 2020-05-06T23:48:38.070Z
 title: Whiplash
 rating: 8.9
 ---
-![Whiplash Movie Poster](/content/reviews/whiplash.jpg)
+![Whiplash Movie Poster](/content/reviews/6d0589aa-dd44-47aa-a885-aa63d82f2828.jpeg)
 
 # **Overview**
 
