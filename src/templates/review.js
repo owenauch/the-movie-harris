@@ -30,6 +30,7 @@ class ReviewTemplate extends React.Component {
             </h2>
           }
         </div>
+        <h4>{review.frontmatter.date}</h4>
         <div dangerouslySetInnerHTML={{ __html: review.html }} />
       </Layout>
     )

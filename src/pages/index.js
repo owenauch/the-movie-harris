@@ -23,8 +23,8 @@ const IndexPage = ({ data }) => (
               <div><span style={{ color: "#e51937"}}>{node.frontmatter.rating}</span><span>/10</span></div> : 
               <div><span style={{ color: "#2CB714"}}>{node.frontmatter.rating}</span><span>/10</span></div>
           }
-            <span><span  style={{ marginLeft: ".5rem", marginRight: ".5rem"}}>-</span>{node.frontmatter.date}</span>
           </h3>
+          <div style={{ color: "#636363"}}>{node.frontmatter.date}</div>
           <p style={{color: "#203636"}}>{node.excerpt}</p>
         </Link>
       </div>
@@ -43,7 +43,7 @@ export const query = graphql`
           id
           frontmatter {
             title
-            date(formatString: "DD MMMM, YYYY")
+            date(formatString: "MMMM DD, YYYY")
             rating
           }
           fields {
