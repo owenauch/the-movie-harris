@@ -4,7 +4,7 @@ date: 2020-05-20T23:58:37.502Z
 title: Vice
 rating: 8.4
 ---
-![Vice Movie Poster](/content/reviews/610mlb-9mcl._ac_sl1500_.jpg)
+![Vice Movie Poster](https://www.washingtonpost.com/graphics/2019/entertainment/oscar-nominees-movie-poster-design/img/vice-web.jpg)
 
 # **Overview**
 
