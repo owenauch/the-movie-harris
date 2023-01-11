@@ -13,7 +13,7 @@
     "gatsby-plugin-react-helmet": "^3.0.11",
     "gatsby-plugin-typography": "^2.2.10",
     "gatsby-source-filesystem": "^2.0.28",
-    "gatsby-transformer-remark": "^2.3.8",
+    "gatsby-transformer-remark": "^5.25.1",
     "netlify-cms": "^2.9.0",
     "prop-types": "^15.7.2",
     "react": "^16.8.6",
